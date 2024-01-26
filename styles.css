@@ -1,5 +1,3 @@
-/* styles.css */
-
 body {
   font-family: 'Arial', sans-serif;
   font-weight: bold;
@@ -80,12 +78,47 @@ button {
   cursor: pointer;
   border-radius: 4px;
   transition: background 0.3s ease;
-  margin-top: 10px; /* Füge den gewünschten Abstand oben hinzu */
-  margin-bottom: 10px; /* Füge den gewünschten Abstand unten hinzu */
+  margin-top: 10px; 
+  margin-bottom: 10px; 
 }
 
 
 
-button:hover {
-  background-color: #ff0000;
+@media only screen and (max-width: 600px) {
+  #quiz-container {
+    width: 320px;
+    height: 320px;
+  }
+ 
+  h2 {
+   
+    font-size: 16px;
+  }
+ 
+  button {
+    background: linear-gradient(to right, #09085a, #2925e6);
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    padding: 5px 5px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  #question {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+ 
+  #options {
+    white-space: normal; 
+    max-width: 100%; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    font-size: 12px;
+  }
+
 }
