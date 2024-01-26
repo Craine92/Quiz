@@ -1,0 +1,864 @@
+[
+    {
+      "question": "Wofür steht die abkürzung SMART im Projektmanagement?",
+      "options": ["Spezifisch Messbar Erreichbar Relevant Terminiert" , "Spekulation Mutation Arbeit Tennis", "Man Soll Schlau handeln", "Erst denken dann reden"],
+      "correctAnswer": "Spezifisch Messbar Erreichbar Relevant Terminiert"
+    },
+    {
+      "question": "Wofür steht die abkürzung AIDA im Projektmanagement?",
+      "options": ["Aufmerksamkeit Interesse Verlangen Handlung" , "Attention Iteriert Desire Action", "Eine Kreuzfahrt machen", "Artificial Intelligence Data Angular"],
+      "correctAnswer": "Aufmerksamkeit Interesse Verlangen Handlung"
+    },
+    {
+      "question": "Was ist der Hauptunterschied zwischen IPv4 und IPv6?",
+      "options": [
+        "IPv6 verwendet 32-Bit-Adressen, während IPv4 128-Bit-Adressen verwendet.",
+        "IPv6 wurde entwickelt, um den Adressraum zu erweitern, den IPv4 zur Verfügung stellt.",
+        "IPv4 ist neuer und effizienter als IPv6.",
+        "IPv6 steht für 6 Internet Protocols, während IPv4 nur 4 Protokolle unterstützt."
+      ],
+      "correctAnswer": "IPv6 wurde entwickelt, um den Adressraum zu erweitern, den IPv4 zur Verfügung stellt."
+    },
+    {
+      "question": "Aus wie vielen Oktetten besteht eine IPv4-Adresse?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Was steht die Abkürzung UML im Kontext von Softwareentwicklung?",
+      "options": [
+        "Unified Modeling Language",
+        "Universal Model Language",
+        "Uniform Modeling Language",
+        "Unified Management Language"
+      ],
+      "correctAnswer": "Unified Modeling Language"
+    },
+    {
+      "question": "Wofür steht die Abkürzung XML?",
+      "options": [
+        "Extensible Markup Language",
+        "eXtended Modeling Language",
+        "eXecutable Markup Language",
+        "Extended Modeling Language"
+      ],
+      "correctAnswer": "Extensible Markup Language"
+    },
+    {
+      "question": "Was ist der Hauptunterschied zwischen Kanban und Scrum in der agilen Softwareentwicklung?",
+      "options": [
+        "Kanban legt den Fokus auf kontinuierliche Lieferung, während Scrum auf feste Zeitrahmen setzt.",
+        "Scrum verwendet ein Board, um den Fortschritt zu visualisieren, während Kanban Sprints verwendet.",
+        "Kanban betont Planung und Vorhersagbarkeit, während Scrum sich auf Flexibilität konzentriert.",
+        "Scrum ist eine Projektmanagement-Methode, während Kanban ein Entwicklungsrahmen ist."
+      ],
+      "correctAnswer": "Kanban legt den Fokus auf kontinuierliche Lieferung, während Scrum auf feste Zeitrahmen setzt."
+    },
+    {
+      "question": "Welcher SQL-Befehl wird verwendet, um Daten aus einer Tabelle auszuwählen?",
+      "options": [
+        "SELECT",
+        "UPDATE",
+        "INSERT",
+        "DELETE"
+      ],
+      "correctAnswer": "SELECT"
+    },
+    {
+      "question": "Was ist der Zweck von Subnetting in IPv4?",
+      "options": [
+        "Verbesserung der Netzwerksicherheit",
+        "Optimierung der Netzwerkleistung",
+        "Effiziente Nutzung von IP-Adressen und Ressourcen",
+        "Erweiterung der maximalen Länge von IP-Adressen"
+      ],
+      "correctAnswer": "Effiziente Nutzung von IP-Adressen und Ressourcen"
+    },
+    {
+      "question": "Was ist der Zweck von Subnetting in IPv4?",
+      "options": [
+        "Verbesserung der Netzwerksicherheit",
+        "Optimierung der Netzwerkleistung",
+        "Effiziente Nutzung von IP-Adressen und Ressourcen",
+        "Erweiterung der maximalen Länge von IP-Adressen"
+      ],
+      "correctAnswer": "Effiziente Nutzung von IP-Adressen und Ressourcen"
+    },
+    {
+      "question": "In IPv6, welche Art von Adressen wird normalerweise für Subnetting verwendet?",
+      "options": [
+        "Link-Local Adressen",
+        "Global Unicast Adressen",
+        "Site-Local Adressen",
+        "Anycast Adressen"
+      ],
+      "correctAnswer": "Global Unicast Adressen"
+    },
+    {
+      "question": "Welcher SQL JOIN gibt alle Zeilen zurück, wenn es Übereinstimmungen in den Tabellen gibt, andernfalls NULL?",
+      "options": [
+        "INNER JOIN",
+        "LEFT JOIN (or LEFT OUTER JOIN)",
+        "RIGHT JOIN (or RIGHT OUTER JOIN)",
+        "FULL JOIN (or FULL OUTER JOIN)"
+      ],
+      "correctAnswer": "LEFT JOIN (or LEFT OUTER JOIN)"
+    },
+    {
+      "question": "Welche SQL-Funktion wird verwendet, um die durchschnittliche (Mittel-)Wert einer Spalte zu berechnen?",
+      "options": [
+        "SUM()",
+        "COUNT()",
+        "AVG()",
+        "MAX()"
+      ],
+      "correctAnswer": "AVG()"
+    },
+    {
+      "question": "In SQL, welche Klausel wird verwendet, um Bedingungen für die Abfrage festzulegen?",
+      "options": [
+        "GROUP BY",
+        "HAVING",
+        "ORDER BY",
+        "WHERE"
+      ],
+      "correctAnswer": "WHERE"
+    },
+    {
+      "question": "Welche der folgenden ist keine Rolle im Scrum-Framework?",
+      "options": [
+        "Product Owner",
+        "Scrum Master",
+        "Project Manager",
+        "Development Team"
+      ],
+      "correctAnswer": "Project Manager"
+    },
+    {
+      "question": "Welches der folgenden Prinzipien ist ein Grundsatz des Agilen Manifests?",
+      "options": [
+        "Umsetzung von umfassender Dokumentation",
+        "Vertragsverhandlung über Zusammenarbeit mit dem Kunden",
+        "Reagieren auf Veränderungen über das Befolgen eines Plans",
+        "Werkzeuge und Prozesse über Individuen und Interaktionen"
+      ],
+      "correctAnswer": "Reagieren auf Veränderungen über das Befolgen eines Plans"
+    },
+    {
+      "question": "Welches Agile Framework betont die kontinuierliche Lieferung und Visualisierung des Arbeitsablaufs?",
+      "options": [
+        "Scrum",
+        "Kanban",
+        "Extreme Programming (XP)",
+        "Feature-Driven Development (FDD)"
+      ],
+      "correctAnswer": "Kanban"
+    },
+    {
+      "question": "Welches Modell beschreibt einen sequenziellen, nicht iterativen Ansatz, bei dem jede Phase erst nach Abschluss der vorherigen beginnt?",
+      "options": [
+        "Agiles Modell",
+        "Wasserfallmodell",
+        "V-Modell",
+        "Spiralmodell"
+      ],
+      "correctAnswer": "Wasserfallmodell"
+    },
+    {
+  "question": "Welches Instrument wird häufig im traditionellen Projektmanagement verwendet, um Aufgaben in einem zeitlichen Ablauf darzustellen?",
+  "options": [
+    "Fishbone-Diagramm",
+    "PERT-Diagramm",
+    "Gantt-Diagramm",
+    "Ishikawa-Diagramm"
+  ],
+  "correctAnswer": "Gantt-Diagramm"
+},
+{
+  "question": "Welcher Aspekt des traditionellen Projektmanagements befasst sich typischerweise mit der Genehmigung und Verwaltung von Änderungen im Projekt?",
+  "options": [
+    "Risk Management",
+    "Quality Management",
+    "Change Control",
+    "Stakeholder Management"
+  ],
+  "correctAnswer": "Change Control"
+},
+{
+  "question": "Was ist ein Monopol?",
+  "options": [
+    "Ein Markt mit vielen Anbietern und vielen Nachfragern.",
+    "Ein Markt, auf dem nur ein einziger Anbieter existiert.",
+    "Ein Markt, auf dem die Preise von der Regierung festgelegt werden.",
+    "Ein Markt, auf dem die Preise durch Angebot und Nachfrage bestimmt werden."
+  ],
+  "correctAnswer": "Ein Markt, auf dem nur ein einziger Anbieter existiert."
+},
+{
+  "question": "Welcher der folgenden Gründe könnte zu einem natürlichen Monopol führen?",
+  "options": [
+    "Viele Anbieter und homogene Produkte",
+    "Hohe Markteintrittsbarrieren und starke Netzwerkeffekte",
+    "Wenig Kontrolle über den Marktpreis",
+    "Perfekte Konkurrenz"
+  ],
+  "correctAnswer": "Hohe Markteintrittsbarrieren und starke Netzwerkeffekte"
+},
+{
+  "question": "Was charakterisiert einen Polypolmarkt?",
+  "options": [
+    "Ein Markt mit nur einem Anbieter.",
+    "Ein Markt mit vielen Anbietern und vielen Nachfragern.",
+    "Ein Markt, auf dem die Preise von der Regierung festgelegt werden.",
+    "Ein Markt, auf dem die Preise durch Angebot und Nachfrage bestimmt werden."
+  ],
+  "correctAnswer": "Ein Markt mit vielen Anbietern und vielen Nachfragern."
+},
+{
+  "question": "Was ist ein Merkmal des Polypolmarktes in Bezug auf die Produktdifferenzierung?",
+  "options": [
+    "Homogene Produkte ohne Unterscheidungsmerkmale",
+    "Starke Unterscheidung zwischen den Produkten der Anbieter",
+    "Ein einziger Anbieter mit exklusiven Produkten",
+    "Viele Anbieter mit identischen Produkten"
+  ],
+  "correctAnswer": "Homogene Produkte ohne Unterscheidungsmerkmale"
+},
+{
+  "question": "Was ist ein Oligopol?",
+  "options": [
+    "Ein Markt mit nur einem Anbieter.",
+    "Ein Markt mit vielen Anbietern und vielen Nachfragern.",
+    "Ein Markt, auf dem die Preise von der Regierung festgelegt werden.",
+    "Ein Markt, auf dem nur wenige große Anbieter existieren."
+  ],
+  "correctAnswer": "Ein Markt, auf dem nur wenige große Anbieter existieren."
+},
+{
+  "question": "Was bedeutet Preisführerschaft in einem Oligopol?",
+  "options": [
+    "Ein Unternehmen setzt den Preis und alle anderen folgen.",
+    "Die Preise werden von der Regierung festgelegt.",
+    "Viele kleine Anbieter beeinflussen die Preise gemeinsam.",
+    "Es gibt keinen festen Preis, sondern nur Verhandlungen zwischen den Anbietern."
+  ],
+  "correctAnswer": "Ein Unternehmen setzt den Preis und alle anderen folgen."
+},
+{
+  "question": "Was ist eine GbR (Gesellschaft bürgerlichen Rechts)?",
+  "options": [
+    "Ein Einzelunternehmen mit nur einem Eigentümer.",
+    "Eine Personengesellschaft, bei der die Gesellschafter persönlich und unbeschränkt haften.",
+    "Eine Kapitalgesellschaft mit beschränkter Haftung.",
+    "Eine Organisation, die in der Landwirtschaft tätig ist."
+  ],
+  "correctAnswer": "Eine Personengesellschaft, bei der die Gesellschafter persönlich und unbeschränkt haften."
+},
+{
+  "question": "Was charakterisiert einen e.K. (Eingetragenen Kaufmann)?",
+  "options": [
+    "Ein Kaufmann, dessen Handelsregistereintragung optional ist.",
+    "Ein eingetragenes Unternehmen mit mehreren Eigentümern.",
+    "Ein Kaufmann, dessen Haftung auf das Geschäftsvermögen beschränkt ist.",
+    "Ein Einzelunternehmer, der im Handelsregister eingetragen ist."
+  ],
+  "correctAnswer": "Ein Einzelunternehmer, der im Handelsregister eingetragen ist."
+},
+{
+  "question": "Was ist eine OHG (Offene Handelsgesellschaft)?",
+  "options": [
+    "Eine Form der GmbH (Gesellschaft mit beschränkter Haftung).",
+    "Eine Einzelunternehmung in der Landwirtschaft.",
+    "Eine Personengesellschaft, bei der die Haftung der Gesellschafter unbeschränkt ist.",
+    "Ein eingetragenes Handelsunternehmen."
+  ],
+  "correctAnswer": "Eine Personengesellschaft, bei der die Haftung der Gesellschafter unbeschränkt ist."
+},
+{
+  "question": "Was kennzeichnet eine KG (Kommanditgesellschaft)?",
+  "options": [
+    "Eine Personengesellschaft, bei der alle Gesellschafter voll haften.",
+    "Eine Gesellschaft mit nur einem Gesellschafter.",
+    "Eine Mischform, bei der es sowohl persönlich haftende Gesellschafter als auch Kommanditisten gibt.",
+    "Eine Kapitalgesellschaft mit beschränkter Haftung."
+  ],
+  "correctAnswer": "Eine Mischform, bei der es sowohl persönlich haftende Gesellschafter als auch Kommanditisten gibt."
+},
+{
+  "question": "Was ist charakteristisch für eine GmbH (Gesellschaft mit beschränkter Haftung)?",
+  "options": [
+    "Die Gesellschafter haften nur mit ihrem Geschäftsvermögen.",
+    "Es gibt immer nur einen Geschäftsführer.",
+    "Die Gesellschafter haften persönlich und unbeschränkt.",
+    "Es ist eine Form des Einzelunternehmens."
+  ],
+  "correctAnswer": "Die Gesellschafter haften nur mit ihrem Geschäftsvermögen."
+},
+{
+  "question": "Was ist eine Unternehmergesellschaft (haftungsbeschränkt)?",
+  "options": [
+    "Eine Form der OHG (Offenen Handelsgesellschaft).",
+    "Eine GmbH mit nur einem Gesellschafter.",
+    "Ein eingetragener Kaufmann mit beschränkter Haftung.",
+    "Eine Gesellschaft mit beschränkter Haftung, die besonders für kleinere Unternehmen geeignet ist."
+  ],
+  "correctAnswer": "Eine Gesellschaft mit beschränkter Haftung, die besonders für kleinere Unternehmen geeignet ist."
+},
+{
+  "question": "Wie viele Schichten hat das ISO/OSI-Referenzmodell?",
+  "options": [
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  "correctAnswer": "7"
+},
+{
+  "question": "Welche Funktion erfüllt die Anwendungsschicht im ISO/OSI-Modell?",
+  "options": [
+    "Datenvermittlung zwischen Systemen im Netzwerk",
+    "Verschlüsselung und Authentifizierung von Daten",
+    "Logische Verbindung und Datenflusskontrolle",
+    "Präsentation von Datenformaten und -strukturen"
+  ],
+  "correctAnswer": "Präsentation von Datenformaten und -strukturen"
+},
+{
+  "question": "Was ist die Hauptaufgabe der Netzwerkschicht im ISO/OSI-Modell?",
+  "options": [
+    "Zuverlässige Übertragung von Daten zwischen Endgeräten",
+    "Verwaltung von physischen Verbindungen und Übertragungsmedien",
+    "Routing und Datenpaketweiterleitung zwischen Netzwerken",
+    "Datenflusskontrolle und Fehlerkorrektur auf der Bit-Ebene"
+  ],
+  "correctAnswer": "Routing und Datenpaketweiterleitung zwischen Netzwerken"
+},
+{
+  "question": "Wie viele Schichten hat der TCP/IP-Protokollstack?",
+  "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "correctAnswer": "4"
+},
+{
+  "question": "Was ist die Hauptfunktion des TCP-Protokolls im TCP/IP-Protokollstack?",
+  "options": [
+    "Vermittlung zwischen Anwendungen und Netzwerk",
+    "Segmentierung und Wiederzusammenfügung von Daten",
+    "Routing von Datenpaketen im Netzwerk",
+    "Adressierung und Identifizierung von Netzwerkknoten"
+  ],
+  "correctAnswer": "Segmentierung und Wiederzusammenfügung von Daten"
+},
+{
+  "question": "Was ist die Hauptaufgabe des IP-Protokolls im TCP/IP-Protokollstack?",
+  "options": [
+    "Sicherung der Datenintegrität auf der Bit-Ebene",
+    "Vermittlung von Daten zwischen Endgeräten im Netzwerk",
+    "Verwaltung von physischen Verbindungen und Übertragungsmedien",
+    "Adressierung und Weiterleitung von Datenpaketen im Netzwerk"
+  ],
+  "correctAnswer": "Adressierung und Weiterleitung von Datenpaketen im Netzwerk"
+},
+{
+  "question": "Was ist der Hauptzweck der ISO 27001?",
+  "options": [
+    "Qualitätsmanagement in der Informationstechnologie",
+    "Informationssicherheitsmanagement",
+    "Umweltmanagement in der Informationstechnologie",
+    "Projektmanagement für IT-Infrastrukturen"
+  ],
+  "correctAnswer": "Informationssicherheitsmanagement"
+},
+{
+  "question": "Was bedeutet ISMS im Kontext von ISO 27001?",
+  "options": [
+    "Internationales Sicherheitsmanagement-System",
+    "Informationssicherheitsmanagement-System",
+    "Integriertes System für Management und Sicherheit",
+    "Internationaler Standard für Managementsysteme"
+  ],
+  "correctAnswer": "Informationssicherheitsmanagement-System"
+},
+{
+  "question": "Welcher Zyklus wird in ISO 27001 betont, um kontinuierliche Verbesserungen im Informationssicherheitsmanagement zu fördern?",
+  "options": [
+    "SPC-Zyklus (Statistical Process Control)",
+    "DMAIC-Zyklus (Define, Measure, Analyze, Improve, Control)",
+    "PDCA-Zyklus (Plan, Do, Check, Act)",
+    "SCRUM-Zyklus (Sprint, Commit, Review, Update, Maintain)"
+  ],
+  "correctAnswer": "PDCA-Zyklus (Plan, Do, Check, Act)"
+},
+{
+  "question": "Welcher Zyklus wird in ISO 27001 betont, um kontinuierliche Verbesserungen im Informationssicherheitsmanagement zu fördern?",
+  "options": [
+    "SPC-Zyklus (Statistical Process Control)",
+    "DMAIC-Zyklus (Define, Measure, Analyze, Improve, Control)",
+    "PDCA-Zyklus (Plan, Do, Check, Act)",
+    "SCRUM-Zyklus (Sprint, Commit, Review, Update, Maintain)"
+  ],
+  "correctAnswer": "PDCA-Zyklus (Plan, Do, Check, Act)"
+},
+{
+  "question": "Was bedeutet es, wenn eine Organisation nach ISO 27001 zertifiziert ist?",
+  "options": [
+    "Die Organisation hat den ISO 9001-Standard erfüllt.",
+    "Die Organisation hat nachgewiesen, dass sie ein effektives Informationssicherheitsmanagement-System implementiert hat.",
+    "Die Organisation hat eine Umweltzertifizierung nach ISO 14001 erhalten.",
+    "Die Organisation hat sich auf ethische Geschäftspraktiken verpflichtet."
+  ],
+  "correctAnswer": "Die Organisation hat nachgewiesen, dass sie ein effektives Informationssicherheitsmanagement-System implementiert hat."
+},
+{
+  "question": "Welcher Ansatz wird in ISO 27001 verwendet, um die Sicherheitskontrollen und -maßnahmen zu identifizieren und zu implementieren?",
+  "options": [
+    "Prozessorientierter Ansatz",
+    "Datenorientierter Ansatz",
+    "Risikobasierter Ansatz",
+    "Hierarchischer Ansatz"
+  ],
+  "correctAnswer": "Risikobasierter Ansatz"
+},
+{
+  "question": "Welches Gesetz regelt den Datenschutz in der Europäischen Union und trat im Mai 2018 in Kraft?",
+  "options": [
+    "BDSG (Bundesdatenschutzgesetz)",
+    "ISO 27001",
+    "BSI-Gesetz",
+    "DSGVO (Datenschutzgrundverordnung)"
+  ],
+  "correctAnswer": "DSGVO (Datenschutzgrundverordnung)"
+},
+{
+  "question": "Wann muss gemäß DSGVO ein Datenschutzbeauftragter bestellt werden?",
+  "options": [
+    "In Unternehmen jeder Größe",
+    "Nur in großen Unternehmen mit mehr als 500 Mitarbeitern",
+    "Nur in Unternehmen, die personenbezogene Daten verarbeiten",
+    "Nur in öffentlichen Behörden"
+  ],
+  "correctAnswer": "In Unternehmen jeder Größe, wenn personenbezogene Daten verarbeitet werden"
+},
+{
+  "question": "Wann muss gemäß DSGVO ein Datenschutzbeauftragter bestellt werden?",
+  "options": [
+    "In Unternehmen jeder Größe",
+    "Nur in großen Unternehmen mit mehr als 500 Mitarbeitern",
+    "Nur in Unternehmen, die personenbezogene Daten verarbeiten",
+    "Nur in öffentlichen Behörden"
+  ],
+  "correctAnswer": "In Unternehmen jeder Größe, wenn personenbezogene Daten verarbeitet werden"
+},
+{
+  "question": "Was ist das Ziel des IT-Grundschutzes des BSI?",
+  "options": [
+    "Die Sicherheit von Banktransaktionen",
+    "Die Sicherheit von kritischen Infrastrukturen",
+    "Die Sicherheit von Industrieproduktionen",
+    "Die Sicherheit von Internetdienstleistern"
+  ],
+  "correctAnswer": "Die Sicherheit von kritischen Infrastrukturen"
+},
+{
+  "question": "Welches Dokument des BSI enthält Empfehlungen zur Umsetzung von IT-Sicherheitsmaßnahmen?",
+  "options": [
+    "BSI-Grundschutzkatalog",
+    "BSI-Gesetz",
+    "BSI-Untersuchungsbericht",
+    "BSI-Sicherheitsrichtlinie"
+  ],
+  "correctAnswer": "BSI-Grundschutzkatalog"
+},
+{
+  "question": "Welches Sicherheitsprinzip stellt sicher, dass Informationen nur von autorisierten Personen eingesehen werden können?",
+  "options": [
+    "Integrität",
+    "Vertraulichkeit",
+    "Verfügbarkeit",
+    "Authentizität"
+  ],
+  "correctAnswer": "Vertraulichkeit"
+},
+{
+  "question": "Wie trägt man dazu bei, die Vertraulichkeit von Informationen zu gewährleisten?",
+  "options": [
+    "Regelmäßige Datenbackups",
+    "Starke Verschlüsselungstechnologien",
+    "Öffentliche Veröffentlichung von sensiblen Informationen",
+    "Nutzung von Cloud-Diensten ohne Authentifizierung"
+  ],
+  "correctAnswer": "Starke Verschlüsselungstechnologien"
+},
+{
+  "question": "Welche Sicherheitsmaßnahme gewährleistet die Integrität von Daten und schützt vor unautorisierten Änderungen?",
+  "options": [
+    "Firewalls",
+    "Antivirensoftware",
+    "Hash-Funktionen",
+    "Biometrische Authentifizierung"
+  ],
+  "correctAnswer": "Hash-Funktionen"
+},
+{
+  "question": "Warum ist Versionskontrolle eine wichtige Maßnahme für die Informationssicherheit?",
+  "options": [
+    "Um den Zugriff auf Daten zu beschränken",
+    "Um die Verfügbarkeit von Informationen sicherzustellen",
+    "Um die Integrität von Dateiversionen zu gewährleisten",
+    "Um die Vertraulichkeit von sensiblen Daten zu schützen"
+  ],
+  "correctAnswer": "Um die Integrität von Dateiversionen zu gewährleisten"
+},
+{
+  "question": "Welche Strategie trägt dazu bei, die Verfügbarkeit von Systemen sicherzustellen, selbst wenn ein Teil ausfällt?",
+  "options": [
+    "Verschlüsselung",
+    "Redundanz",
+    "Biometrische Authentifizierung",
+    "Firewall-Konfiguration"
+  ],
+  "correctAnswer": "Redundanz"
+},
+{
+  "question": "Was ist eine gängige Maßnahme zum Schutz vor Distributed Denial of Service (DDoS)-Angriffen?",
+  "options": [
+    "Firewalls",
+    "Verschlüsselung",
+    "Load-Balancing",
+    "Biometrische Authentifizierung"
+  ],
+  "correctAnswer": "Load-Balancing"
+},
+{
+  "question": "Was ist eine Einfügeanomalie in einer Datenbank?",
+  "options": [
+    "Daten werden ohne Vorbedingungen in die Datenbank eingefügt.",
+    "Das Einfügen neuer Daten führt dazu, dass bereits vorhandene Daten gelöscht werden.",
+    "Es ist nicht möglich, neue Daten in die Datenbank einzufügen.",
+    "Das Einfügen neuer Daten erfordert das Hinzufügen von Duplikaten."
+  ],
+  "correctAnswer": "Daten werden ohne Vorbedingungen in die Datenbank eingefügt."
+},
+{
+  "question": "Was verursacht eine Update-Anomalie in einer Datenbank?",
+  "options": [
+    "Die Notwendigkeit, existierende Daten zu löschen.",
+    "Das Aktualisieren von Daten führt dazu, dass andere Daten ungewollt verändert werden.",
+    "Daten können nicht aktualisiert werden.",
+    "Datenaktualisierungen erfordern das Hinzufügen von Duplikaten."
+  ],
+  "correctAnswer": "Das Aktualisieren von Daten führt dazu, dass andere Daten ungewollt verändert werden."
+},
+{
+  "question": "Was ist eine Lösch-Anomalie in einer Datenbank?",
+  "options": [
+    "Das Löschen von Daten führt dazu, dass andere Daten ungewollt verändert werden.",
+    "Daten können nicht gelöscht werden.",
+    "Daten werden ohne Vorbedingungen gelöscht.",
+    "Das Löschen von Daten erfordert das Hinzufügen von Duplikaten."
+  ],
+  "correctAnswer": "Das Löschen von Daten führt dazu, dass andere Daten ungewollt verändert werden."
+},
+{
+  "question": "Was verursacht referenzielle Inkonsistenz in einer Datenbank?",
+  "options": [
+    "Fehlende oder ungültige Verweise zwischen Tabellen",
+    "Fehler in der Datenbank-Indexierung",
+    "Duplikate in den Datenbanktabellen",
+    "Probleme bei der Datenverschlüsselung"
+  ],
+  "correctAnswer": "Fehlende oder ungültige Verweise zwischen Tabellen"
+},
+{
+  "question": "Welche Art von Inkonsistenz kann auftreten, wenn eine Datenbanktransaktion teilweise durchgeführt wird, aber dann fehlschlägt?",
+  "options": [
+    "Referenzielle Inkonsistenz",
+    "Versionsinkonsistenz",
+    "Transaktionsisolationsinkonsistenz",
+    "Strukturinkonsistenz"
+  ],
+  "correctAnswer": "Transaktionsisolationsinkonsistenz"
+},
+{
+  "question": "Was ist die Hauptfunktion eines Linkers in der Softwareentwicklung?",
+  "options": [
+    "Dynamische Speicherallokation",
+    "Übersetzung von Quellcode in Maschinencode",
+    "Verbindung von Objektmodulen zu einem ausführbaren Programm",
+    "Optimierung von Algorithmen"
+  ],
+  "correctAnswer": "Verbindung von Objektmodulen zu einem ausführbaren Programm"
+},
+{
+  "question": "Was ist der Unterschied zwischen extrinsischer und intrinsischer Motivation?",
+  "options": [
+    "Extrinsische Motivation kommt von inneren Anreizen, während intrinsische Motivation von äußeren Belohnungen kommt.",
+    "Extrinsische Motivation kommt von äußeren Belohnungen, während intrinsische Motivation von inneren Anreizen kommt.",
+    "Beide Begriffe beziehen sich auf dasselbe Konzept.",
+    "Extrinsische Motivation ist irrelevant für menschliches Verhalten."
+  ],
+  "correctAnswer": "Extrinsische Motivation kommt von äußeren Belohnungen, während intrinsische Motivation von inneren Anreizen kommt."
+},
+{
+  "question": "Was steht ERM im Zusammenhang mit einem Programmablaufplan in der Datenmodellierung?",
+  "options": [
+    "Entwurf und Realisierung von Maschinen",
+    "Entity-Relationship-Modell",
+    "Echtzeit-Reaktionsmodell",
+    "Elastisches Ressourcenmanagement"
+  ],
+  "correctAnswer": "Entity-Relationship-Modell"
+},
+{
+  "question": "Was repräsentieren Beziehungstypen im Entity-Relationship-Modell (ERM)?",
+  "options": [
+    "Physische Verbindungen zwischen Computern",
+    "Logische Verknüpfungen zwischen Datenbanktabellen",
+    "Die zeitliche Abfolge von Programmanweisungen",
+    "Prozesse zur Extraktion von Rohdaten"
+  ],
+  "correctAnswer": "Logische Verknüpfungen zwischen Datenbanktabellen"
+},
+{
+  "question": "Was ist die Hauptfunktion einer CPU (Central Processing Unit) in einem Computer?",
+  "options": [
+    "Daten auf einem externen Speicher speichern",
+    "Grafikverarbeitung für den Bildschirm",
+    "Ausführung von Befehlen und Berechnungen",
+    "Verwaltung von Netzwerkverbindungen"
+  ],
+  "correctAnswer": "Ausführung von Befehlen und Berechnungen"
+},
+{
+  "question": "Welche Art von Speicher ist der RAM (Random Access Memory) in einem Computer?",
+  "options": [
+    "Langzeitspeicher",
+    "Cache-Speicher",
+    "Flüchtiger Arbeitsspeicher",
+    "Externes Speichermedium"
+  ],
+  "correctAnswer": "Flüchtiger Arbeitsspeicher"
+},
+{
+  "question": "In der Zertifizierung von Hardware und Software beziehen sich Gold, Silber und Bronze normalerweise auf:",
+  "options": [
+    "Leistungsstufen oder Qualitätsniveaus",
+    "Metallische Bestandteile in den Produkten",
+    "Durchschnittliche Produktionskosten",
+    "Herstellerstandorte"
+  ],
+  "correctAnswer": "Leistungsstufen oder Qualitätsniveaus"
+},
+{
+  "question": "Welche Bedeutung hat eine Hardware-Zertifizierung, die besagt, dass ein Produkt 'Gold' zertifiziert ist?",
+  "options": [
+    "Es entspricht den höchsten Leistungsstandards und Qualitätsanforderungen.",
+    "Es ist vollständig aus Gold gefertigt.",
+    "Es wurde von einem internationalen Gremium für Umweltfreundlichkeit ausgezeichnet.",
+    "Es hat den höchsten Marktpreis."
+  ],
+  "correctAnswer": "Es entspricht den höchsten Leistungsstandards und Qualitätsanforderungen."
+},
+{
+  "question": "Was könnte eine Silber-Zertifizierung in der IT-Industrie typischerweise bedeuten?",
+  "options": [
+    "Das Produkt bietet eine solide Leistung zu einem wettbewerbsfähigen Preis.",
+    "Es handelt sich um ein Produkt aus Silbermaterialien.",
+    "Das Produkt hat durchschnittliche Leistungsmerkmale.",
+    "Es ist besonders umweltfreundlich."
+  ],
+  "correctAnswer": "Das Produkt bietet eine solide Leistung zu einem wettbewerbsfähigen Preis."
+},
+{
+  "question": "Was beschreibt der Begriff 'ökologisch' in Bezug auf Umwelt und Ressourcen?",
+  "options": [
+    "Den Zusammenhang mit wirtschaftlichen Aktivitäten",
+    "Die Wechselwirkung mit der Umwelt und den Ökosystemen",
+    "Die Effizienz von Produktionsprozessen",
+    "Die finanziellen Aspekte einer Organisation"
+  ],
+  "correctAnswer": "Die Wechselwirkung mit der Umwelt und den Ökosystemen"
+},
+{
+  "question": "Welcher Begriff ist eher mit ökologischen Überlegungen und Umweltschutz verbunden?",
+  "options": [
+    "Kosteneffizienz",
+    "Wirtschaftswachstum",
+    "Nachhaltigkeit",
+    "Gewinnmaximierung"
+  ],
+  "correctAnswer": "Nachhaltigkeit"
+},
+{
+  "question": "Was bezeichnet der Begriff 'ökonomisch' in erster Linie?",
+  "options": [
+    "Die Auswirkungen auf Ökosysteme",
+    "Finanzielle Aspekte und wirtschaftliche Prozesse",
+    "Umweltfreundliche Praktiken",
+    "Soziale Verantwortung von Unternehmen"
+  ],
+  "correctAnswer": "Finanzielle Aspekte und wirtschaftliche Prozesse"
+},
+{
+  "question": "Welcher Ansatz ist eher ökonomisch ausgerichtet und berücksichtigt Kosten und Nutzen von Entscheidungen?",
+  "options": [
+    "Ökologische Bilanzierung",
+    "Soziale Gerechtigkeit",
+    "Kosten-Nutzen-Analyse",
+    "Umweltschutzrichtlinien"
+  ],
+  "correctAnswer": "Kosten-Nutzen-Analyse"
+},
+{
+  "question": "Was ist der Hauptzweck eines Lastenhefts in einem Projekt?",
+  "options": [
+    "Die detaillierte Beschreibung der technischen Umsetzung",
+    "Die Anforderungen und Erwartungen des Auftraggebers festhalten",
+    "Die Ressourcenplanung für das Projekt",
+    "Die grafische Darstellung des Projektverlaufs"
+  ],
+  "correctAnswer": "Die Anforderungen und Erwartungen des Auftraggebers festhalten"
+},
+{
+  "question": "Was enthält ein Pflichtenheft, das im Anschluss an das Lastenheft erstellt wird?",
+  "options": [
+    "Detaillierte technische Spezifikationen",
+    "Projektkosten und Budgetierung",
+    "Projektzeitplan und Meilensteine",
+    "Analyse der Stakeholder-Beteiligung"
+  ],
+  "correctAnswer": "Detaillierte technische Spezifikationen"
+},
+{
+  "question": "Welche Hauptfunktion hat die Soll-Ist-Analyse in einem Projektmanagementkontext?",
+  "options": [
+    "Vergleich der geplanten und tatsächlichen Leistung",
+    "Erstellung von Lasten- und Pflichtenheften",
+    "Identifikation der Stakeholder",
+    "Entwicklung des Ressourcenplans"
+  ],
+  "correctAnswer": "Vergleich der geplanten und tatsächlichen Leistung"
+},
+{
+  "question": "Warum ist die Risikoanalyse ein wichtiger Bestandteil des Projektmanagements?",
+  "options": [
+    "Um die Kosten des Projekts zu minimieren",
+    "Um die Qualität des Endprodukts zu steigern",
+    "Um potenzielle Risiken zu identifizieren und zu bewerten",
+    "Um die Kommunikation mit den Stakeholdern zu verbessern"
+  ],
+  "correctAnswer": "Um potenzielle Risiken zu identifizieren und zu bewerten"
+},
+{
+  "question": "Welches Ziel verfolgt die Ressourcenplanung in einem Projekt?",
+  "options": [
+    "Die Identifikation potenzieller Risiken",
+    "Die Definition von Lasten- und Pflichtenheften",
+    "Die effiziente Nutzung von Zeit, Geld und Arbeitskräften",
+    "Die Analyse der Soll-Ist-Unterschiede"
+  ],
+  "correctAnswer": "Die effiziente Nutzung von Zeit, Geld und Arbeitskräften"
+},
+{
+  "question": "Was ist das Hauptziel einer Stakeholder-Analyse in einem Projekt?",
+  "options": [
+    "Die Identifikation und Analyse der Interessen und Einflüsse relevanter Personen oder Gruppen",
+    "Die Erstellung des Lastenhefts",
+    "Die Budgetierung und Ressourcenplanung",
+    "Die Soll-Ist-Analyse"
+  ],
+  "correctAnswer": "Die Identifikation und Analyse der Interessen und Einflüsse relevanter Personen oder Gruppen"
+},
+{
+  "question": "Wer sind Stakeholder in einem Projekt?",
+  "options": [
+    "Nur die Projektmanager",
+    "Alle Personen oder Gruppen, die vom Projekt betroffen sind oder Einfluss darauf haben",
+    "Nur die Endbenutzer des Projekts",
+    "Externe Berater des Projektteams"
+  ],
+  "correctAnswer": "Alle Personen oder Gruppen, die vom Projekt betroffen sind oder Einfluss darauf haben"
+},
+{
+  "question": "Was ist ein wesentliches Merkmal von Stakeholdern in Bezug auf ein Projekt?",
+  "options": [
+    "Sie haben nur finanzielles Interesse am Projekt.",
+    "Ihre Interessen sind nicht wichtig für den Projekterfolg.",
+    "Sie können das Projekt beeinflussen oder sind von seinen Ergebnissen betroffen.",
+    "Sie sind nur intern im Unternehmen zu finden."
+  ],
+  "correctAnswer": "Sie können das Projekt beeinflussen oder sind von seinen Ergebnissen betroffen."
+},
+{
+  "question": "Warum ist eine Stakeholder-Analyse in einem Projekt wichtig?",
+  "options": [
+    "Um nur die finanziellen Interessen der Stakeholder zu identifizieren",
+    "Um die Anzahl der Stakeholder zu begrenzen",
+    "Um die Erstellung von Lasten- und Pflichtenheften zu erleichtern",
+    "Um die Interessen und Einflüsse relevanter Personen oder Gruppen zu identifizieren und zu analysieren"
+  ],
+  "correctAnswer": "Um die Interessen und Einflüsse relevanter Personen oder Gruppen zu identifizieren und zu analysieren"
+},
+{
+  "question": "Welche Rolle spielt die Kommunikation mit Stakeholdern in einem Projekt?",
+  "options": [
+    "Sie ist nur dann wichtig, wenn Probleme auftreten.",
+    "Sie hat keinen Einfluss auf den Projekterfolg.",
+    "Sie ist entscheidend für den Projekterfolg und die Zufriedenheit der Stakeholder.",
+    "Sie sollte nur auf schriftlichem Wege erfolgen."
+  ],
+  "correctAnswer": "Sie ist entscheidend für den Projekterfolg und die Zufriedenheit der Stakeholder."
+},
+{
+  "question": "Was charakterisiert ein inkrementelles Vorgehen in der Softwareentwicklung?",
+  "options": [
+    "Die Entwicklung erfolgt in großen, vollständigen Phasen.",
+    "Das Produkt wird schrittweise in kleinen, funktionalen Teilen erstellt.",
+    "Es gibt keine klaren Entwicklungsphasen.",
+    "Die Entwicklung erfolgt ohne Testphasen."
+  ],
+  "correctAnswer": "Das Produkt wird schrittweise in kleinen, funktionalen Teilen erstellt."
+},
+{
+  "question": "Was ist ein Schlüsselmerkmal eines iterativen Vorgehens in der Softwareentwicklung?",
+  "options": [
+    "Ein einmal festgelegter Plan wird strikt befolgt.",
+    "Die Entwicklungsphasen werden in großen Zeitabständen durchgeführt.",
+    "Das Produkt wird wiederholt über kurze Zeiträume entwickelt und verbessert.",
+    "Es gibt keine klaren Entwicklungsmeilensteine."
+  ],
+  "correctAnswer": "Das Produkt wird wiederholt über kurze Zeiträume entwickelt und verbessert."
+},
+{
+  "question": "Was ist ein zentrales Prinzip von Extreme Programming (XP) in der Softwareentwicklung?",
+  "options": [
+    "Minimierung der Kommunikation im Entwicklungsteam",
+    "Strenge Festlegung aller Anforderungen zu Beginn des Projekts",
+    "Häufige Kommunikation und Zusammenarbeit zwischen Entwicklern und Kunden",
+    "Vernachlässigung von Tests und Dokumentation"
+  ],
+  "correctAnswer": "Häufige Kommunikation und Zusammenarbeit zwischen Entwicklern und Kunden"
+},
+{
+  "question": "Welches Prinzip unterstützt die kontinuierliche Integration in Softwareentwicklungsprozessen?",
+  "options": [
+    "Selbstständige Entwicklung ohne Teaminteraktion",
+    "Vereinbarung von festen Entwicklungszyklen ohne Anpassungen",
+    "Regelmäßige Zusammenführung von Entwicklungsänderungen ins Gesamtprojekt",
+    "Entwicklung ohne Rücksicht auf Kundenanforderungen"
+  ],
+  "correctAnswer": "Regelmäßige Zusammenführung von Entwicklungsänderungen ins Gesamtprojekt"
+}
+
+  ]
+  
