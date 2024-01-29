@@ -10,16 +10,6 @@
       "correctAnswer": "Aufmerksamkeit Interesse Verlangen Handlung"
     },
     {
-      "question": "Was ist der Hauptunterschied zwischen IPv4 und IPv6?",
-      "options": [
-        "IPv6 verwendet 32-Bit-Adressen, während IPv4 128-Bit-Adressen verwendet.",
-        "IPv6 wurde entwickelt, um den Adressraum zu erweitern, den IPv4 zur Verfügung stellt.",
-        "IPv4 ist neuer und effizienter als IPv6.",
-        "IPv6 steht für 6 Internet Protocols, während IPv4 nur 4 Protokolle unterstützt."
-      ],
-      "correctAnswer": "IPv6 wurde entwickelt, um den Adressraum zu erweitern, den IPv4 zur Verfügung stellt."
-    },
-    {
       "question": "Aus wie vielen Oktetten besteht eine IPv4-Adresse?",
       "options": [
         "4",
@@ -68,16 +58,6 @@
         "DELETE"
       ],
       "correctAnswer": "SELECT"
-    },
-    {
-      "question": "Was ist der Zweck von Subnetting in IPv4?",
-      "options": [
-        "Verbesserung der Netzwerksicherheit",
-        "Optimierung der Netzwerkleistung",
-        "Effiziente Nutzung von IP-Adressen und Ressourcen",
-        "Erweiterung der maximalen Länge von IP-Adressen"
-      ],
-      "correctAnswer": "Effiziente Nutzung von IP-Adressen und Ressourcen"
     },
     {
       "question": "Was ist der Zweck von Subnetting in IPv4?",
@@ -218,16 +198,6 @@
     "Ein Markt, auf dem die Preise durch Angebot und Nachfrage bestimmt werden."
   ],
   "correctAnswer": "Ein Markt mit vielen Anbietern und vielen Nachfragern."
-},
-{
-  "question": "Was ist ein Merkmal des Polypolmarktes in Bezug auf die Produktdifferenzierung?",
-  "options": [
-    "Homogene Produkte ohne Unterscheidungsmerkmale",
-    "Starke Unterscheidung zwischen den Produkten der Anbieter",
-    "Ein einziger Anbieter mit exklusiven Produkten",
-    "Viele Anbieter mit identischen Produkten"
-  ],
-  "correctAnswer": "Homogene Produkte ohne Unterscheidungsmerkmale"
 },
 {
   "question": "Was ist ein Oligopol?",
@@ -510,16 +480,6 @@
   "correctAnswer": "Hash-Funktionen"
 },
 {
-  "question": "Warum ist Versionskontrolle eine wichtige Maßnahme für die Informationssicherheit?",
-  "options": [
-    "Um den Zugriff auf Daten zu beschränken",
-    "Um die Verfügbarkeit von Informationen sicherzustellen",
-    "Um die Integrität von Dateiversionen zu gewährleisten",
-    "Um die Vertraulichkeit von sensiblen Daten zu schützen"
-  ],
-  "correctAnswer": "Um die Integrität von Dateiversionen zu gewährleisten"
-},
-{
   "question": "Welche Strategie trägt dazu bei, die Verfügbarkeit von Systemen sicherzustellen, selbst wenn ein Teil ausfällt?",
   "options": [
     "Verschlüsselung",
@@ -528,16 +488,6 @@
     "Firewall-Konfiguration"
   ],
   "correctAnswer": "Redundanz"
-},
-{
-  "question": "Was ist eine gängige Maßnahme zum Schutz vor Distributed Denial of Service (DDoS)-Angriffen?",
-  "options": [
-    "Firewalls",
-    "Verschlüsselung",
-    "Load-Balancing",
-    "Biometrische Authentifizierung"
-  ],
-  "correctAnswer": "Load-Balancing"
 },
 {
   "question": "Was ist eine Einfügeanomalie in einer Datenbank?",
@@ -590,16 +540,6 @@
   "correctAnswer": "Transaktionsisolationsinkonsistenz"
 },
 {
-  "question": "Was ist die Hauptfunktion eines Linkers in der Softwareentwicklung?",
-  "options": [
-    "Dynamische Speicherallokation",
-    "Übersetzung von Quellcode in Maschinencode",
-    "Verbindung von Objektmodulen zu einem ausführbaren Programm",
-    "Optimierung von Algorithmen"
-  ],
-  "correctAnswer": "Verbindung von Objektmodulen zu einem ausführbaren Programm"
-},
-{
   "question": "Was ist der Unterschied zwischen extrinsischer und intrinsischer Motivation?",
   "options": [
     "Extrinsische Motivation kommt von inneren Anreizen, während intrinsische Motivation von äußeren Belohnungen kommt.",
@@ -630,36 +570,6 @@
   "correctAnswer": "Logische Verknüpfungen zwischen Datenbanktabellen"
 },
 {
-  "question": "Was ist die Hauptfunktion einer CPU (Central Processing Unit) in einem Computer?",
-  "options": [
-    "Daten auf einem externen Speicher speichern",
-    "Grafikverarbeitung für den Bildschirm",
-    "Ausführung von Befehlen und Berechnungen",
-    "Verwaltung von Netzwerkverbindungen"
-  ],
-  "correctAnswer": "Ausführung von Befehlen und Berechnungen"
-},
-{
-  "question": "Welche Art von Speicher ist der RAM (Random Access Memory) in einem Computer?",
-  "options": [
-    "Langzeitspeicher",
-    "Cache-Speicher",
-    "Flüchtiger Arbeitsspeicher",
-    "Externes Speichermedium"
-  ],
-  "correctAnswer": "Flüchtiger Arbeitsspeicher"
-},
-{
-  "question": "In der Zertifizierung von Hardware und Software beziehen sich Gold, Silber und Bronze normalerweise auf:",
-  "options": [
-    "Leistungsstufen oder Qualitätsniveaus",
-    "Metallische Bestandteile in den Produkten",
-    "Durchschnittliche Produktionskosten",
-    "Herstellerstandorte"
-  ],
-  "correctAnswer": "Leistungsstufen oder Qualitätsniveaus"
-},
-{
   "question": "Welche Bedeutung hat eine Hardware-Zertifizierung, die besagt, dass ein Produkt 'Gold' zertifiziert ist?",
   "options": [
     "Es entspricht den höchsten Leistungsstandards und Qualitätsanforderungen.",
@@ -668,16 +578,6 @@
     "Es hat den höchsten Marktpreis."
   ],
   "correctAnswer": "Es entspricht den höchsten Leistungsstandards und Qualitätsanforderungen."
-},
-{
-  "question": "Was könnte eine Silber-Zertifizierung in der IT-Industrie typischerweise bedeuten?",
-  "options": [
-    "Das Produkt bietet eine solide Leistung zu einem wettbewerbsfähigen Preis.",
-    "Es handelt sich um ein Produkt aus Silbermaterialien.",
-    "Das Produkt hat durchschnittliche Leistungsmerkmale.",
-    "Es ist besonders umweltfreundlich."
-  ],
-  "correctAnswer": "Das Produkt bietet eine solide Leistung zu einem wettbewerbsfähigen Preis."
 },
 {
   "question": "Was beschreibt der Begriff 'ökologisch' in Bezug auf Umwelt und Ressourcen?",
@@ -760,16 +660,6 @@
   "correctAnswer": "Um potenzielle Risiken zu identifizieren und zu bewerten"
 },
 {
-  "question": "Welches Ziel verfolgt die Ressourcenplanung in einem Projekt?",
-  "options": [
-    "Die Identifikation potenzieller Risiken",
-    "Die Definition von Lasten- und Pflichtenheften",
-    "Die effiziente Nutzung von Zeit, Geld und Arbeitskräften",
-    "Die Analyse der Soll-Ist-Unterschiede"
-  ],
-  "correctAnswer": "Die effiziente Nutzung von Zeit, Geld und Arbeitskräften"
-},
-{
   "question": "Was ist das Hauptziel einer Stakeholder-Analyse in einem Projekt?",
   "options": [
     "Die Identifikation und Analyse der Interessen und Einflüsse relevanter Personen oder Gruppen",
@@ -798,16 +688,6 @@
     "Sie sind nur intern im Unternehmen zu finden."
   ],
   "correctAnswer": "Sie können das Projekt beeinflussen oder sind von seinen Ergebnissen betroffen."
-},
-{
-  "question": "Warum ist eine Stakeholder-Analyse in einem Projekt wichtig?",
-  "options": [
-    "Um nur die finanziellen Interessen der Stakeholder zu identifizieren",
-    "Um die Anzahl der Stakeholder zu begrenzen",
-    "Um die Erstellung von Lasten- und Pflichtenheften zu erleichtern",
-    "Um die Interessen und Einflüsse relevanter Personen oder Gruppen zu identifizieren und zu analysieren"
-  ],
-  "correctAnswer": "Um die Interessen und Einflüsse relevanter Personen oder Gruppen zu identifizieren und zu analysieren"
 },
 {
   "question": "Welche Rolle spielt die Kommunikation mit Stakeholdern in einem Projekt?",
@@ -850,14 +730,174 @@
   "correctAnswer": "Häufige Kommunikation und Zusammenarbeit zwischen Entwicklern und Kunden"
 },
 {
-  "question": "Welches Prinzip unterstützt die kontinuierliche Integration in Softwareentwicklungsprozessen?",
+  "question": "Was ist charakteristisch für ein differentielles Backup?",
   "options": [
-    "Selbstständige Entwicklung ohne Teaminteraktion",
-    "Vereinbarung von festen Entwicklungszyklen ohne Anpassungen",
-    "Regelmäßige Zusammenführung von Entwicklungsänderungen ins Gesamtprojekt",
-    "Entwicklung ohne Rücksicht auf Kundenanforderungen"
+    "Es sichert nur die seit dem letzten Vollbackup geänderten Daten.",
+    "Es sichert nur die seit dem letzten Backup hinzugefügten oder geänderten Daten.",
+    "Es sichert alle seit dem letzten Backup geänderten Daten.",
+    "Es sichert alle seit dem letzten Vollbackup geänderten Daten."
   ],
-  "correctAnswer": "Regelmäßige Zusammenführung von Entwicklungsänderungen ins Gesamtprojekt"
+  "correctAnswer": "Es sichert nur die seit dem letzten Vollbackup geänderten Daten."
+},
+{
+  "question": "Wie unterscheidet sich ein inkrementelles Backup von einem differentiellen Backup?",
+  "options": [
+    "Ein inkrementelles Backup sichert nur die seit dem letzten Vollbackup geänderten Daten.",
+    "Ein inkrementelles Backup sichert nur die seit dem letzten Backup hinzugefügten oder geänderten Daten.",
+    "Ein differentielles Backup sichert alle seit dem letzten Backup geänderten Daten.",
+    "Ein differentielles Backup sichert alle seit dem letzten Vollbackup geänderten Daten."
+  ],
+  "correctAnswer": "Ein inkrementelles Backup sichert nur die seit dem letzten Backup hinzugefügten oder geänderten Daten."
+},
+{
+  "question": "Was ist die Hauptfunktion eines CRM-Systems (Customer-Realationship-Management)?",
+  "options": [
+    "Finanzmanagement",
+    "Vertriebsmanagement",
+    "Personalmanagement",
+    "Produktionsmanagement"
+  ],
+  "correctAnswer": "Vertriebsmanagement"
+},
+{
+  "question": "Warum ist die Verwendung eines CRM-Systems (Customer-Realationship-Management)?",
+  "options": [
+    "Um die Lagerbestände zu verwalten",
+    "Um die Kundenzufriedenheit zu verbessern",
+    "Um Gehaltsabrechnungen durchzuführen",
+    "Um den Produktionsprozess zu optimieren"
+  ],
+  "correctAnswer": "Um die Kundenzufriedenheit zu verbessern"
+},
+{
+  "question": "Was ist der Hauptzweck von Business Intelligence (BI) in Unternehmen?",
+  "options": [
+    "Die Verwaltung von Personalressourcen",
+    "Die Optimierung von Produktionsprozessen",
+    "Die Analyse und Auswertung von Unternehmensdaten",
+    "Die Entwicklung von Marketingstrategien"
+  ],
+  "correctAnswer": "Die Analyse und Auswertung von Unternehmensdaten"
+},
+{
+  "question": "Welches der folgenden Instrumente wird oft im Rahmen von Business Intelligence eingesetzt?",
+  "options": [
+    "Kundenservice-Software",
+    "Enterprise Resource Planning (ERP)",
+    "Data Mining",
+    "Social Media Marketing"
+  ],
+  "correctAnswer": "Data Mining"
+},
+{
+  "question": "Was ist der Hauptzweck von Enterprise Resource Planning (ERP) in Unternehmen?",
+  "options": [
+    "Die Verwaltung von Kundenservice-Anfragen",
+    "Die Optimierung von Produktionsabläufen",
+    "Die Entwicklung von Marketingkampagnen",
+    "Die Verfolgung von Social-Media-Metriken"
+  ],
+  "correctAnswer": "Die Optimierung von Produktionsabläufen"
+},
+{
+  "question": "Welche Funktionen werden typischerweise von einem ERP-System abgedeckt?",
+  "options": [
+    "Finanzmanagement, Personalwesen, und Beschaffung",
+    "Kundenbeziehungsmanagement (CRM), Datenanalyse, und Marketing",
+    "Logistik, Lagerverwaltung, und Vertrieb",
+    "Social Media Management, Projektmanagement, und Kundensupport"
+  ],
+  "correctAnswer": "Finanzmanagement, Personalwesen, und Beschaffung"
+},
+{
+  "question": "Was ist der Hauptzweck eines RAID-Systems in der Speichertechnologie?",
+  "options": [
+    "Beschleunigung von Datenübertragungsraten",
+    "Erhöhung der Datensicherheit und -verfügbarkeit",
+    "Verbesserung der Energieeffizienz",
+    "Optimierung der Prozessorleistung"
+  ],
+  "correctAnswer": "Erhöhung der Datensicherheit und -verfügbarkeit"
+},
+{
+  "question": "Welche RAID-Stufe bietet sowohl Datenredundanz als auch gesteigerte Leistung?",
+  "options": [
+    "RAID 0",
+    "RAID 1",
+    "RAID 5",
+    "RAID 10"
+  ],
+  "correctAnswer": "RAID 10"
+},
+{
+  "question": "Welche Aussage trifft auf RAID 5 zu?",
+  "options": [
+    "Bietet hohe Schreibgeschwindigkeit, aber keine Redundanz",
+    "Spiegelt Daten auf zwei Festplatten für verbesserte Sicherheit",
+    "Ermöglicht Hot Swapping für Ausfallsicherheit",
+    "Verwendet Paritätsinformationen zur Datensicherung"
+  ],
+  "correctAnswer": "Verwendet Paritätsinformationen zur Datensicherung"
+},
+{
+  "question": "Was ist ein potenzielles Risiko bei RAID 0?",
+  "options": [
+    "Datenverlust bei Ausfall einer Festplatte",
+    "Langsamer Schreibzugriff auf die Festplatten",
+    "Hohe Kosten für die Implementierung",
+    "Geringe Kapazitätseffizienz"
+  ],
+  "correctAnswer": "Datenverlust bei Ausfall einer Festplatte"
+},
+{
+  "question": "Was bedeuten die Abkürzungen CMA und CMS im Zusammenhang mit Content Management?",
+  "options": [
+    "CMA steht für Content Management Application, und CMS steht für Content Management System.",
+    "CMA steht für Creative Marketing Approach, und CMS steht für Customer Management Service.",
+    "CMA steht für Customer Analytics, und CMS steht für Communication Management System.",
+    "CMA steht für Computer Maintenance and Assistance, und CMS steht für Customer Marketing Strategy."
+  ],
+  "correctAnswer": "CMA steht für Content Management Application, und CMS steht für Content Management System."
+},
+{
+  "question": "Was ist die Hauptfunktion eines Content Management Systems (CMS)?",
+  "options": [
+    "Verwaltung von Kundendatenbanken",
+    "Steuerung von Produktionsprozessen",
+    "Organisation von Unternehmensfinanzen",
+    "Verwaltung und Bereitstellung von digitalen Inhalten"
+  ],
+  "correctAnswer": "Verwaltung und Bereitstellung von digitalen Inhalten"
+},
+{
+  "question": "Was versteht man unter Usability im Bereich der Benutzererfahrung?",
+  "options": [
+    "Die Anzahl der Benutzer auf einer Website",
+    "Die Effizienz und Zufriedenheit bei der Benutzung einer Schnittstelle",
+    "Die Anzahl der Funktionen in einer Software",
+    "Die visuelle Attraktivität einer Anwendung"
+  ],
+  "correctAnswer": "Die Effizienz und Zufriedenheit bei der Benutzung einer Schnittstelle"
+},
+{
+  "question": "Was ist der Hauptunterschied zwischen HTTP und HTTPS?",
+  "options": [
+    "HTTP ist für sichere Verbindungen, während HTTPS für unsichere Verbindungen steht.",
+    "HTTP verwendet Port 80, während HTTPS Port 443 verwendet und eine sichere Datenübertragung ermöglicht.",
+    "HTTP steht für Hypertext Transfer Protocol, während HTTPS für Hypertext Transfer Protocol Secure steht.",
+    "HTTP erfordert keine Verschlüsselung, während HTTPS immer verschlüsselte Verbindungen verwendet."
+  ],
+  "correctAnswer": "HTTP steht für Hypertext Transfer Protocol, während HTTPS für Hypertext Transfer Protocol Secure steht."
+},
+{
+  "question": "Warum ist die Verwendung von HTTPS wichtig für Websites, insbesondere für solche, die sensible Informationen verarbeiten?",
+  "options": [
+    "Um die Ladegeschwindigkeit der Website zu erhöhen",
+    "Um den Datenverkehr zu reduzieren",
+    "Um die Datenübertragung zwischen dem Benutzer und der Website zu verschlüsseln",
+    "Um mehr Anzeigen auf der Website anzeigen zu können"
+  ],
+  "correctAnswer": "Um die Datenübertragung zwischen dem Benutzer und der Website zu verschlüsseln"
 }
 
   ]
